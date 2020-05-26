@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-Do all developers in ServiceNow need to be UI developers to build seismic apps? Not really. Then why do we expect them to start learning HTML and CSS to build UIs ?
+Do all developers in an organization need to be UI developers to build seismic apps? Not really. Then why do we expect them to start learning HTML and CSS to build UIs ?
 
 # How it works?
 
@@ -36,9 +36,9 @@ Ideally this list would be very long so that there is no need to write HTML/CSS,
 
 # Benefits
 
-1. Faster component development
-2. Every ServiceNow developer can build UIs as only expertise needed will be Javascript.
+1. Faster component development.
+2. Every developer can build UIs as only expertise needed will be Javascript.
 3. Building Components will be FUN and not a pain.
-4. More control on the generated UI/components as the styling will be controlled centrally and hence all ServiceNow widgets will look consistent.
+4. More control on the generated UI/components as the styling will be controlled centrally and hence all components/widgets across organization will look consistent.
 5. There will be a full blown list of UI Blocks which cater to all styling needs of developers.
 6. Each UI block will have certain properties which can be configured only if need be.
